@@ -1,0 +1,5 @@
+Epochs: 100
+optimizer: SGD
+iou: 0.50
+imgsz: 620
+batch_size: 64
